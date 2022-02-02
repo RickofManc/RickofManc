@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RickofManc
-- 👀 I’m aspiring to be a Developer
+- 👀 Aspiring to be a Developer
 - 🌱 Through learning to code with the Code Institute
 - 💞️ Looking to collaborate on anything and everything
 - 📫 Email rickatherton316@gmail.com
