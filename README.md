@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rick
-- 🌱 Upskilling from +10 years in IT Project roles to Web Developer/ UI/UX Designer
+- 🌱 Upskilling from +10 years in IT Project roles to Junior Developer / UI Designer
 - 💞️ To help make the world and the web more accessible, ethical and beautiful
 - 👀 Currently finishing a diploma in 'Full Stack Web Development' with the Code Institute
 - 📫 Email rickatherton316@gmail.com
